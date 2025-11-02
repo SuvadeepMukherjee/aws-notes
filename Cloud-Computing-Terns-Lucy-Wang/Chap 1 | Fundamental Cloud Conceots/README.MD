@@ -48,4 +48,36 @@
       | Store sensitive data       | Performing generalized tasks                 |
       | Perform regular operations | Perform operations when there is high demand |
 
-         
+  
+
+## Service Models 
+
+Cloud  Service Models 
+
+-  Refers to the differnt levels of management and abstraction provided by Cloud Service providers 
+- Types of Service Models
+  - Iaas( Infrastructure as a service )
+  - Pass (Platform as a service)
+  - Saas(Software as a service)
+
+## Iaas(Infrastructure as a service)
+
+- Provides  virtualized computing resources over the internet, including servers , storage and networks 
+- Have control over Operating Systems , applications and development frameworks 
+- Amazon Web Services, Microsoft Azure and Google Cloud
+
+## Paas (Platform as a service)
+
+- Provides a platform allowing customers to develop , run and manage applications without having to deal with the underlying infrastructure 
+- Provides tools , libraries and development environments to streamline the application development process
+- Users can concentrate on building , deploying and managing applications without worrying about servers , storage or networks 
+- Heroku , Amazon amplify and Google App Engine 
+
+## Software as a service(Saas)
+
+- Delivers ready-to-use software applications over the internet accessible via web browsers or APIs
+- No installation or maintanence needed 
+- Provides pre-built software applications accesible through a browser 
+- Google Workspace , SalesForce , Microsoft 365
+
+  
