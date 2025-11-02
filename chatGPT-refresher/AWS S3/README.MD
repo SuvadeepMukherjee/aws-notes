@@ -17,3 +17,23 @@ Object storage - data is stored as objects inside buckets
 **Solution**:
 
 A rule that automatically transitions or deletes objects based on their age 
+
+**Q4**:Key features of AWS S3 
+
+**Solution**:
+
+- Scalable 
+- Durable
+- Secure 
+- LifeCycle Policies 
+
+Trick ➡️ Smart Data Storage that lasts
+
+**Q5**:Common use cases of AWS S3 
+**Solution**:
+
+- Backup 
+- Content distribution 
+- Application data storage
+
+Trick ➡️ Big Cloud Archive
