@@ -160,3 +160,43 @@ You define a **TTL attribute** (a UNIX epoch time in seconds), and when that tim
   - Security for DynamoDB is governed by **AWS Identity and Access Management(IAM)** which makes it **more secure than MongoDB**
 - **Cost**
   - Both DynamoDB and MongoDB are **free** for a pre-defined period of time.After free usage expires , **DynamoDB calculates cost on the basis of reads and writes** , while **MongoDB calculates cost according to consumed storage** 
+
+**Q21**:Applications of DynamoDB 
+
+**Solution**:
+
+- Iot applications
+- Gaming industry (high write loads)
+- Real time notifications - using DynamoDB streams to trigger alerts or workflows
+
+**Q22**:Key features of DynamoDB 
+
+**Solution**:
+
+- Serverless advantage
+  - let developers focus on data not infrastructure
+- Global tables
+  - Global Tables => DynamoDB tables automatically replicates across multiple AWS regions 
+- Encryption at rest 
+  - Our stored data is encrypted to protect it from unauthorixed access
+- Scheduled Auto-Scaling
+  - lets us plan scaling in advance based on known usage patterns
+
+**Q23**:Comparision between DynamoDB and relational DBs
+
+**Solution**:
+
+- Schema
+  - DynamoDB is schema less 
+- Disadvantage of DynamoDB compared to relational DBs
+  - Lacks full ACID(Atomicity ,Consistency, Isolation , Durability) gurantees
+
+**Q24**:Comparision between DynamoDB and NoSQL DBs 
+
+**Solution**:
+
+- DynamoDB suppports key-value and document data models 
+- DynamoDB does not support columnar and graph based DBs
+
+
+
